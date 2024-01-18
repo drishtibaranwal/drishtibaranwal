@@ -8,4 +8,4 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Python and Machine Learning, deep learning, SQL. 
 - 🌱 I’m currently learning Web Development. 
 - 👯 I’m looking to collaborate on web development and ML. 
-- 📫 How to reach me: Contact me on LinkedIn: https://www.linkedin.com/in/drishti-baranwal-b46885201/
+- 📫 How to reach me: Contact me on LinkedIn: https://www.linkedin.com/in/bdrishti/
